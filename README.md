@@ -1,6 +1,6 @@
 # Citus Example: Microservices
 
-Three microservices used to demonstrte setting up Citus as scalable storage backend for microservices.
+Three microservices used to demonstrate setting up Citus as scalable storage backend for microservices.
 
 # Citus setup
 
